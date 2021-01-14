@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #D9D2C5;
+   
+}
+.container{
+    max-width: 1000px;
+    margin:auto;
+}
+header{
+    background-color:#A6A29F;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.title{
+    font-size: 30px;
+}
+section{
+    padding: 20px;
+    background-image: url(../imagens/eventoOnline.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
+.formContainer{
+    max-width: 230px;
+    background-color: #ffffffBB;
+    padding: 20px;
+    float: right;
+    font-size: 13px;
+}
+.mb{
+    margin-bottom: 15px;
+}
+input,select{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    color: white;
+    background-color: #A6A29F;
+    text-align: center;
+    font-weight: bold;
+}
+select{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url(../imagens/arrow.jpg);
+    background-repeat: no-repeat;
+    background-position: calc(100% - 10px) center;
+
+}
