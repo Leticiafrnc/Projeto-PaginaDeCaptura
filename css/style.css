@@ -59,3 +59,32 @@ select{
     background-position: calc(100% - 10px) center;
 
 }
+footer{
+ background-color:#A6A29F;
+ padding: 20px;  
+ text-align: center; 
+ 
+}
+
+
+.description{
+    display: inline-block;
+    max-width: 40%;
+    margin-left: 40px;
+    text-align: left;
+}
+.description p, .description h3{
+    margin-bottom: 20px;
+}
+@media screen and (max-width: 600px){
+
+    .container{
+        width: 100%;   
+    }
+
+    footer{
+        width: 100%;
+    }
+
+}
+    
