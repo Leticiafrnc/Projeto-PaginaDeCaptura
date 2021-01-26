@@ -1,4 +1,4 @@
-### O Projeto Workshop foi criado com objetivo de cadastrar pessoas para eventos. Utilizando a ferramenta online Mailchimp para ter acesso ao cadastro realizado pelos participantes.
+### O Projeto Página de Captura foi criado com objetivo de cadastrar pessoas para eventos. Utilizando a ferramenta online Mailchimp para ter acesso ao cadastro realizado pelos participantes.
 
 ![Screenshot](Workshop.gif)
 ![Screenshot](WorkshopMobile.gif)
